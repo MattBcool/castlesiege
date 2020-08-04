@@ -1,0 +1,281 @@
+name: CastleSiege
+authors: [Falanor, MrlolDestructo]
+version: 1
+description: ToW
+main: com.castlesiege.Main
+depend: [WorldEdit, Votifier]
+load: POSTWORLD
+commands:
+    class:
+        description: Test
+        aliases: [classes, c, kit]
+    suicide:
+        description: Test
+        aliases: [sui, kill, k]
+    kts:
+        description: Test
+        aliases: killthyself
+    map:
+        description: Test
+        aliases: [timeleft, currentmap]
+    maps:
+        description: Test
+        aliases: mapcycle
+    team:
+        description: Test
+    g:
+        description: Test
+    t:
+        description: Test
+    class:
+        description: Test
+    setrank:
+        description: Test
+    setdonorrank:
+        description: Test
+    sw:
+        description: Test
+        aliases: switch
+    message:
+        description: Test
+        aliases: [msg, m, tell, privatemessage, pm, whisper, w]
+    reply:
+        description: Test
+        aliases: [r, respond, re]
+    mods:
+        description: Test
+        aliases: [staff, admins, devs, owners]
+    s1:
+        description: Test
+        aliases: s
+    s2:
+        description: Test
+    s3:
+        description: Test
+    resetstats:
+        description: Test
+    ada:
+        description: Test
+    hud:
+        description: Test
+        aliases: [scoreboard, sb, display]
+    mvp:
+        description: Test
+    mvps:
+        description: Test
+    score:
+        description: Test
+    stats:
+        description: Test
+        aliases: [stat, mystats]
+    level:
+        description: Test
+        aliases: [lvl, exp, currentlevel, currentexp, nextlevel, experience]
+    duel:
+        description: Test
+        aliases: duels
+    ip:
+        description: Test
+        aliases: getip
+    fly:
+        description: Test
+    kdr:
+        description: Test
+    gg:
+        description: Test
+        aliases: goodgame
+    wp:
+        description: Test
+        aliases: wellplayed
+    ggwp:
+        description: Test
+        aliases: goodgamewellplayed
+    toplist:
+        description: Test
+        aliases: [top, topscore, topstats]
+    topkill:
+        description: Test
+        aliases: topkills
+    topdeath:
+        description: Test
+        aliases: topdeaths
+    topassist:
+        description: Test
+        aliases: topassists
+    topcap:
+        description: Test
+        aliases: [topcaps, topcapture, topcaptures]
+    topsup:
+        description: Test
+        aliases: [topsups, topsupp, topsupps, topsupport, topsupports]
+    topmvp:
+        description: Test
+        aliases: topmvps
+    topstreak:
+        description: Test
+        aliases: [topstreaks, topkillstreak, topkillstreaks]
+    toptime:
+        description: Test
+        aliases: [toptimeplayed, toptotaltime, toptotaltimeplayed, topplaytime, toptotalplaytime]
+    topdonator:
+        description: Test
+        aliases: [topdonor, topdonation]
+    topmonthlist:
+        description: Test
+        aliases: [topmonth, topscoremonth, topstatsmonth]
+    topmonthkill:
+        description: Test
+        aliases: topmonthkills
+    topmonthdeath:
+        description: Test
+        aliases: topmonthdeaths
+    topmonthassist:
+        description: Test
+        aliases: topmonthassists
+    topmonthcap:
+        description: Test
+        aliases: [topmonthcaps, topmonthcapture, topmonthcaptures]
+    topmonthsup:
+        description: Test
+        aliases: [topmonthsups, topmonthsupp, topmonthsupps, topmonthsupport, topmonthsupports]
+    topmonthmvp:
+        description: Test
+        aliases: topmonthmvps
+    topmonthstreak:
+        description: Test
+        aliases: [topmonthstreaks, topmonthkillstreak, topmonthkillstreaks]
+    topguildslist:
+        description: Test
+        aliases: [topguilds, topguildsscore, topguildsstats]
+    topguildskill:
+        description: Test
+        aliases: topguildskills
+    topguildsdeath:
+        description: Test
+        aliases: topguildsdeaths
+    topguildsassist:
+        description: Test
+        aliases: topguildsassists
+    topguildscap:
+        description: Test
+        aliases: [topguildscaps, topguildscapture, topguildscaptures]
+    topguildssup:
+        description: Test
+        aliases: [topguildssups, topguildssupp, topguildssupps, topguildssupport, topguildssupports]
+    topguildsmvp:
+        description: Test
+        aliases: topguildsmvps
+    topguildsstreak:
+        description: Test
+        aliases: [topguildsstreaks, topguildskillstreak, topguildskillstreaks]
+    topguildlist:
+        description: Test
+        aliases: [topguild, topguildscore, topguildstats]
+    topguildkill:
+        description: Test
+        aliases: topguildkills
+    topguilddeath:
+        description: Test
+        aliases: topguilddeaths
+    topguildassist:
+        description: Test
+        aliases: topguildassists
+    topguildcap:
+        description: Test
+        aliases: [topguildcaps, topguildcapture, topguildcaptures]
+    topguildsup:
+        description: Test
+        aliases: [topguildsups, topguildsupp, topguildsupps, topguildsupport, topguildsupports]
+    topguildmvp:
+        description: Test
+        aliases: topguildsmvps
+    topguildstreak:
+        description: Test
+        aliases: [topguildstreaks, topguildkillstreak, topguildkillstreaks]
+    topmonthguildslist:
+        description: Test
+        aliases: [topmonthguilds, topmonthguildsscore, topmonthguildsstats]
+    topmonthguildskill:
+        description: Test
+        aliases: topmonthguildskills
+    topmonthguildsdeath:
+        description: Test
+        aliases: topmonthguildsdeaths
+    topmonthguildsassist:
+        description: Test
+        aliases: topmonthguildsassists
+    topmonthguildscap:
+        description: Test
+        aliases: [topmonthguildscaps, topmonthguildscapture, topmonthguildscaptures]
+    topmonthguildssup:
+        description: Test
+        aliases: [topmonthguildssups, topmonthguildssupp, topmonthguildssupps, topmonthguildssupport, topmonthguildssupports]
+    topmonthguildsmvp:
+        description: Test
+        aliases: topmonthguildsmvps
+    topmonthguildsstreak:
+        description: Test
+        aliases: [topmonthguildsstreaks, topmonthguildskillstreak, topmonthguildskillstreaks]
+    topmonthguildlist:
+        description: Test
+        aliases: [topmonthguild, topmonthguildscore, topmonthguildstats]
+    topmonthguildkill:
+        description: Test
+        aliases: topmonthguildkills
+    topmonthguilddeath:
+        description: Test
+        aliases: topmonthguilddeaths
+    topmonthguildassist:
+        description: Test
+        aliases: topmonthguildassists
+    topmonthguildcap:
+        description: Test
+        aliases: [topmonthguildcaps, topmonthguildcapture, topmonthguildcaptures]
+    topmonthguildsup:
+        description: Test
+        aliases: [topmonthguildsups, topmonthguildsupp, topmonthguildsupps, topmonthguildsupport, topmonthguildsupports]
+    topmonthguildmvp:
+        description: Test
+        aliases: topguildsmvps
+    topmonthguildstreak:
+        description: Test
+        aliases: [topmonthguildstreaks, topmonthguildkillstreak, topmonthguildkillstreaks]
+    vote:
+        description: Test
+    settime:
+        description: Test
+    time:
+        description: Shows current map time left in chat
+        aliases: [timeplayed, totaltime, totaltimeplayed, playtime, totalplaytime]
+    guild:
+        description: Test
+    website:
+        description: Test
+        aliases: site
+    forum:
+        description: Test
+        aliases: forums
+    me:
+        description: Test
+    help:
+        description: Test
+    chat:
+        description: Test
+    ban:
+        description: Test
+    unban:
+        description: Test
+    tempban:
+        description: Test
+    baninfo:
+        description: Test
+    kick:
+        description: Test
+    mute:
+        description: Test
+    unmute:
+        description: Test
+    tempmute:
+        description: Test
+    muteinfo:
+        description: Test
