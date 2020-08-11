@@ -13,3 +13,7 @@
 This plugin is an outdated build of the final version which was put together by myself and serves as a benchmark for future capture the flag gamemodes. 
 
 The most up-to-date version is no longer recoverable and has sadly been lost. It featured guilds, several moving map components, and over 10 more siege weapons and flag types.
+
+#### Reference Media via Youtubers who played on the server:
+* https://www.youtube.com/watch?v=Wam4zDuiA34
+* https://www.youtube.com/watch?v=jvt9ND6rmSU
